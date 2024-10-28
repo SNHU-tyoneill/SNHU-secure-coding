@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  test.cpp
+C:\Users\Ty\source\repos\UnitTesting\UnitTesting\test.cpp(23,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file '/test.cpp')
+  
+  UnitTesting.vcxproj -> C:\Users\Ty\source\repos\UnitTesting\x64\Debug\UnitTesting.exe

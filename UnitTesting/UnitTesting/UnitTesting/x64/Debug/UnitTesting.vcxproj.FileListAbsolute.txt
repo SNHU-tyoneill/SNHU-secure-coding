@@ -1,0 +1,3 @@
+C:\Users\Ty\source\repos\UnitTesting\UnitTesting\x64\Debug\gtest.pdb
+C:\Users\Ty\source\repos\UnitTesting\UnitTesting\x64\Debug\gtest_main.pdb
+C:\Users\Ty\source\repos\UnitTesting\UnitTesting\UnitTesting\x64\Debug\UnitTest.A875FF02.Up2Date

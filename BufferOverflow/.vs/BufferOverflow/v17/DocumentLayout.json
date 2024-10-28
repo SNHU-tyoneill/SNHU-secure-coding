@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ty\\source\\repos\\BufferOverflow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F35AFDE-2FB6-4CCE-B336-2E5E2D9CD6FF}|BufferOverflow\\BufferOverflow.vcxproj|C:\\Users\\Ty\\Downloads\\CS 405 M2 BufferOverflow code files\\CS 405 M2 BufferOverflow code files\\BufferOverflow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F35AFDE-2FB6-4CCE-B336-2E5E2D9CD6FF}|BufferOverflow\\BufferOverflow.vcxproj|C:\\Users\\Ty\\Downloads\\CS 405 M2 BufferOverflow code files\\CS 405 M2 BufferOverflow code files\\PythonWithoutExploit.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F35AFDE-2FB6-4CCE-B336-2E5E2D9CD6FF}|BufferOverflow\\BufferOverflow.vcxproj|C:\\Users\\Ty\\Downloads\\CS 405 M2 BufferOverflow code files\\CS 405 M2 BufferOverflow code files\\PythonWithExploit.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PythonWithoutExploit.py",
+              "DocumentMoniker": "C:\\Users\\Ty\\Downloads\\CS 405 M2 BufferOverflow code files\\CS 405 M2 BufferOverflow code files\\PythonWithoutExploit.py",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\CS 405 M2 BufferOverflow code files\\CS 405 M2 BufferOverflow code files\\PythonWithoutExploit.py",
+              "ToolTip": "C:\\Users\\Ty\\Downloads\\CS 405 M2 BufferOverflow code files\\CS 405 M2 BufferOverflow code files\\PythonWithoutExploit.py",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\CS 405 M2 BufferOverflow code files\\CS 405 M2 BufferOverflow code files\\PythonWithoutExploit.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHeSURBVDhPpVMxa1NRFP7ebZLSlgaltNpSVCySRUxL0NAh4FJpHWpxcZAUBEPG/AKHDsVBN5eGrCnoYKCDoDiUCKKBjtZBUZtJ2ojYJr40ue\u002B\u002B47k3VzD0hQr94OOed8853/k47z2cCETk2NAgk8mQDQMhhFjK5/Mb9vEotIDruoEsFovEzVvZbPaWLTcQ9uxCpVLp4l\u002Bk0\u002BlEPB5/wIPm7RVC9uxCMpm0UTdKpRKi0WiCQy3wUt8FCvw7VSNxbRapG4voDwucGgyjXC7bzH84ePt1HysbH/GhWoNstzA1OoSFhZuxQqFg8sfu4FutAd\u002BT8KSEYm7v7GJ0YnLClgYLaAcjU9N4Vx9Dda8OBz7OjwywSNsIXY39vEL7TxWpxv2eO3hWHUZ19xc8ti25UdvXzdpNWH0BDj8JiLOrPXfweOu9mRgRhOXUEPr7IiBfYeacB9HaBNRvQH4f6\u002BlgMERwGxJP7grEoq9shj9Uz\u002BVGpmIi4vXcwdzlcePgzLAuZPiSGw869Jg\u002Biw1Mvw50oLGcuoh71y8h1HwB1Js8UfFLnwScNnBhdYVLWsy1IwK5XM5GHaw9uu0LeSCMddZA32lz7zjOQxMcByK1SPU3O/Rjnai2fkjNz8/5L77TyQJ/AJc67LNf3QeWAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-09-19T03:18:52.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PythonWithExploit.py",
+              "DocumentMoniker": "C:\\Users\\Ty\\Downloads\\CS 405 M2 BufferOverflow code files\\CS 405 M2 BufferOverflow code files\\PythonWithExploit.py",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\CS 405 M2 BufferOverflow code files\\CS 405 M2 BufferOverflow code files\\PythonWithExploit.py",
+              "ToolTip": "C:\\Users\\Ty\\Downloads\\CS 405 M2 BufferOverflow code files\\CS 405 M2 BufferOverflow code files\\PythonWithExploit.py",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\CS 405 M2 BufferOverflow code files\\CS 405 M2 BufferOverflow code files\\PythonWithExploit.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHeSURBVDhPpVMxa1NRFP7ebZLSlgaltNpSVCySRUxL0NAh4FJpHWpxcZAUBEPG/AKHDsVBN5eGrCnoYKCDoDiUCKKBjtZBUZtJ2ojYJr40ue\u002B\u002B47k3VzD0hQr94OOed8853/k47z2cCETk2NAgk8mQDQMhhFjK5/Mb9vEotIDruoEsFovEzVvZbPaWLTcQ9uxCpVLp4l\u002Bk0\u002BlEPB5/wIPm7RVC9uxCMpm0UTdKpRKi0WiCQy3wUt8FCvw7VSNxbRapG4voDwucGgyjXC7bzH84ePt1HysbH/GhWoNstzA1OoSFhZuxQqFg8sfu4FutAd\u002BT8KSEYm7v7GJ0YnLClgYLaAcjU9N4Vx9Dda8OBz7OjwywSNsIXY39vEL7TxWpxv2eO3hWHUZ19xc8ti25UdvXzdpNWH0BDj8JiLOrPXfweOu9mRgRhOXUEPr7IiBfYeacB9HaBNRvQH4f6\u002BlgMERwGxJP7grEoq9shj9Uz\u002BVGpmIi4vXcwdzlcePgzLAuZPiSGw869Jg\u002Biw1Mvw50oLGcuoh71y8h1HwB1Js8UfFLnwScNnBhdYVLWsy1IwK5XM5GHaw9uu0LeSCMddZA32lz7zjOQxMcByK1SPU3O/Rjnai2fkjNz8/5L77TyQJ/AJc67LNf3QeWAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-09-19T03:18:50.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BufferOverflow.cpp",
+              "DocumentMoniker": "C:\\Users\\Ty\\Downloads\\CS 405 M2 BufferOverflow code files\\CS 405 M2 BufferOverflow code files\\BufferOverflow.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\CS 405 M2 BufferOverflow code files\\CS 405 M2 BufferOverflow code files\\BufferOverflow.cpp",
+              "ToolTip": "C:\\Users\\Ty\\Downloads\\CS 405 M2 BufferOverflow code files\\CS 405 M2 BufferOverflow code files\\BufferOverflow.cpp",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\CS 405 M2 BufferOverflow code files\\CS 405 M2 BufferOverflow code files\\BufferOverflow.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-19T03:18:41.195Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
